@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/example/tes_bnsp_perpus/BuildConfig.java
+ com.example.tes_bnsp_perpus.BuildConfig

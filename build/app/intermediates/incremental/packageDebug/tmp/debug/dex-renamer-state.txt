@@ -1,0 +1,4 @@
+#Sun May 08 04:46:59 ICT 2022
+base.0=D\:\\Assignment\\Semester 8\\TesBNSP\\tes_bnsp_perpus\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
